@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(52, 218, 190);
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 30%;
+    height: 10%;
+}
+img:hover{
+    content: url(ligado.png);
+    width: 30%;
+    height: 10%;
+}
